@@ -1,0 +1,50 @@
+= Phrase Translation Management System Dokumentation
+
+== Einführung
+
+Phrase ist ein Übersetzungsmanagementsystem, das den Lokalisierungsprozess für Unternehmen vereinfacht, indem es eine zentralisierte Plattform für die Verwaltung von Übersetzungsworkflows bereitstellt. Diese Dokumentation soll die Benutzer durch die verschiedenen Merkmale und Funktionen von Phrase führen.
+
+== Erste Schritte
+
+=== Kontoerstellung und Einrichtung
+
+Um Phrase nutzen zu können, müssen die Benutzer ein Konto erstellen. Folgen Sie diesen Schritten, um Ihr Konto einzurichten:
+1. Besuchen Sie die Website von Phrase.
+2. Klicken Sie auf die Schaltfläche "Anmelden".
+3. Füllen Sie die erforderlichen Informationen aus, um Ihr Konto zu erstellen.
+4. Nach der Registrierung melden Sie sich an, um auf die Plattform zuzugreifen.
+
+=== Erstellung von Projekten
+
+Nach der Anmeldung können die Benutzer Übersetzungsprojekte erstellen:
+1. Klicken Sie auf die Schaltfläche "Neues Projekt".
+2. Geben Sie Projektdetails wie Projektname, Ausgangssprache und Zielsprachen ein.
+3. Klicken Sie auf "Erstellen", um das Projekt zu erstellen.
+
+== Eigenschaften
+
+=== Wesentliche Merkmale
+
+Phrase bietet verschiedene Funktionen zur Rationalisierung des Übersetzungsprozesses:- **Translation Memory**: Speichern und Wiederverwenden bereits übersetzter Inhalte.- **Glossar-Management**: Führen Sie ein Glossar mit Begriffen für konsistente Übersetzungen.- **Tools für die Zusammenarbeit**: Laden Sie Teammitglieder ein, gemeinsam an Übersetzungsprojekten zu arbeiten.- **Integrationsmöglichkeiten**: Verbinden Sie Phrase mit anderen Tools für nahtlose Arbeitsabläufe.
+
+=== Verwendung von Translation Memory
+
+Translation Memory (TM) in Phrase hilft den Benutzern, vorhandene Übersetzungen zu nutzen. Zur Verwendung von TM:
+1. Zugriff auf das Projekt.
+2. Klicken Sie auf die Registerkarte "Translation Memory".
+3. Suchen Sie nach relevanten Übersetzungen oder Segmenten.
+
+== Fehlersuche
+
+=== Gemeinsame Probleme
+
+Wenn Sie Probleme bei der Verwendung von Phrase haben, finden Sie hier einige allgemeine Schritte zur Fehlerbehebung:- **Problem**: Es können keine Dateien hochgeladen werden.
+  **Lösung**: Überprüfen Sie das Dateiformat und die Größenbeschränkungen.
+
+== Unterstützung
+
+Für weitere Unterstützung oder Anfragen wenden Sie sich bitte an unser Support-Team unter support@phrase.com.
+
+== Schlussfolgerung
+
+Diese Dokumentation gibt einen Überblick über die Funktionalitäten von Phrase. Erkunden Sie die Plattform, um weitere Funktionen zu entdecken und Ihre Lokalisierungsprozesse zu optimieren.
