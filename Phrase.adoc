@@ -1,6 +1,6 @@
 = Phrase Translation Management System Documentation
 
-== Introduction
+== Introduction Change
 
 Phrase is a Translation Management System designed to simplify the localization process for businesses by providing a centralized platform for managing translation workflows. This documentation aims to guide users through the various features and functionalities offered by Phrase.
 
