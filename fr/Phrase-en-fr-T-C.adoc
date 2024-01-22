@@ -1,0 +1,50 @@
+= Documentation du système de gestion de la traduction de phrases
+
+== Introduction
+
+Phrase est un système de gestion de la traduction conçu pour simplifier le processus de localisation pour les entreprises en fournissant une plate-forme centralisée pour la gestion des flux de travail de traduction. Cette documentation a pour but de guider les utilisateurs à travers les différentes caractéristiques et fonctionnalités offertes par Phrase.
+
+== Commencer
+
+=== Création et configuration d’un compte
+
+Pour commencer à utiliser Phrase, les utilisateurs doivent créer un compte. Pour configurer votre compte, procédez comme suit :
+1. Rendez-vous sur le site Web de Phrase.
+2. Cliquez sur le bouton « S’inscrire ».
+3. Remplissez les informations requises pour créer votre compte.
+4. Une fois inscrit, connectez-vous pour accéder à la plateforme.
+
+=== Création de projet
+
+Après s’être connectés, les utilisateurs peuvent créer des projets de traduction :
+1. Cliquez sur le bouton « Nouveau projet ».
+2. Entrez les détails du projet, tels que le nom du projet, la langue source et les langues cibles.
+3. Cliquez sur « Créer » pour générer le projet.
+
+== Fonctionnalités
+
+=== Caractéristiques clés
+
+Phrase offre diverses fonctionnalités pour rationaliser le processus de traduction : - **Mémoire**de traduction : Stockez et réutilisez le contenu déjà traduit. - **Gestion du**glossaire : Tenez à jour un glossaire des termes pour des traductions cohérentes. - **Outils**de collaboration : Invitez les membres de l’équipe à collaborer sur des projets de traduction. - **Options**d’intégration : Connectez Phrase à d’autres outils pour des flux de travail transparents.
+
+=== Utilisation de la mémoire de traduction
+
+La mémoire de (TM) traduction de Phrase aide les utilisateurs à tirer parti des traductions existantes. Pour utiliser la MT :
+1. Accédez au projet.
+2. Cliquez sur l’onglet « Mémoire de traduction ».
+3. Recherchez des traductions ou des segments pertinents.
+
+== Dépannage
+
+=== Problèmes courants
+
+Si vous rencontrez des problèmes lors de l’utilisation de Phrase, voici quelques étapes de dépannage courantes : - **Problème**: Impossible de télécharger des fichiers.
+  **La solution**: Vérifiez les restrictions de format et de taille de fichier.
+
+== Soutien
+
+Pour obtenir de l’aide ou poser des questions, veuillez contacter notre équipe d’assistance à l’adresse support@phrase.com.
+
+== Conclusion
+
+Cette documentation fournit une vue d’ensemble des fonctionnalités de Phrase. Explorez la plateforme pour découvrir plus de fonctionnalités et optimiser vos processus de localisation.
