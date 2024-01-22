@@ -1,0 +1,55 @@
+= Phrase Translation Management System Documentation
+
+== Introduction
+
+Phrase is a Translation Management System designed to simplify the localization process for businesses by providing a centralized platform for managing translation workflows. This documentation aims to guide users through the various features and functionalities offered by Phrase.
+
+== Getting Started
+
+=== Account Creation and Setup
+
+To begin using Phrase, users need to create an account. Follow these steps to set up your account:
+1. Go to the Phrase website.
+2. Click on the "Sign Up" button.
+3. Fill in the required information to create your account.
+4. Once registered, log in to access the platform.
+
+=== Project Creation
+
+After logging in, users can create translation projects:
+1. Click on the "New Project" button.
+2. Enter project details such as project name, source language, and target languages.
+3. Click "Create" to generate the project.
+
+== Features
+
+=== Key Features
+
+Phrase offers various features to streamline the translation process:
+- **Translation Memory**: Store and reuse previously translated content.
+- **Glossary Management**: Maintain a glossary of terms for consistent translations.
+- **Collaboration Tools**: Invite team members to collaborate on translation projects.
+- **Integration Options**: Connect Phrase with other tools for seamless workflows.
+
+=== Using Translation Memory
+
+Translation Memory (TM) in Phrase helps users leverage existing translations. To use TM:
+1. Access the project.
+2. Click on the "Translation Memory" tab.
+3. Search for relevant translations or segments.
+
+== Troubleshooting
+
+=== Common Issues
+
+If you encounter issues while using Phrase, here are some common troubleshooting steps:
+- **Problem**: Unable to upload files.
+  **Solution**: Check file format and size restrictions.
+
+== Support
+
+For further assistance or inquiries, please contact our support team at support@phrase.com.
+
+== Conclusion
+
+This documentation provides an overview of Phrase's functionalities. Explore the platform to discover more features and optimize your localization processes.
